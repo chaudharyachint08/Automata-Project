@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=transmission
+Name[en_US]=Regular Expression to Finite Automaton Converter
+Exec=./re2fa
+Comment[en_US]=Powerful Computation tool
+Name=Regular Expression 2 Finite Automaton Converter
+Comment=Powerful Computation tool
+Icon=transmission
